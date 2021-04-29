@@ -1,0 +1,7 @@
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Lists\bin\Debug\Lists.exe.config
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Lists\bin\Debug\Lists.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Lists\bin\Debug\Lists.pdb
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Lists\obj\Debug\Lists.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Lists\obj\Debug\Lists.pdb

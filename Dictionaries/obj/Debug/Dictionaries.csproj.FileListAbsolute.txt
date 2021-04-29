@@ -1,0 +1,7 @@
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Dictionaries\bin\Debug\Dictionaries.exe.config
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Dictionaries\bin\Debug\Dictionaries.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Dictionaries\obj\Debug\Dictionaries.csprojAssemblyReference.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Dictionaries\obj\Debug\Dictionaries.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Dictionaries\obj\Debug\Dictionaries.pdb

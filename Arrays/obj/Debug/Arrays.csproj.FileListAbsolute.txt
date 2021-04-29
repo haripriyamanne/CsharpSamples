@@ -1,0 +1,7 @@
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Arrays\bin\Debug\Arrays.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Arrays\obj\Debug\Arrays.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
