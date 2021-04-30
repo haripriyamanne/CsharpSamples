@@ -1,0 +1,7 @@
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Data Types\bin\Debug\Data Types.exe.config
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Data Types\bin\Debug\Data Types.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Data Types\bin\Debug\Data Types.pdb
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Data Types\obj\Debug\Data Types.csprojAssemblyReference.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Data Types\obj\Debug\Data Types.csproj.CoreCompileInputs.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Data Types\obj\Debug\Data Types.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Data Types\obj\Debug\Data Types.pdb

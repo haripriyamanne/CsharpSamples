@@ -10,6 +10,15 @@ namespace Variables
     {
         static void Main(string[] args)
         {
+            //Variables Rules and Regulations
+            //name	Valid
+            //subject101	Valid
+            //_age	Valid (Best practice for naming private member variables)
+            //@break	Valid (Used if name is a reserved keyword)
+            //101subject	Invalid (Starts with digit)
+            //your_name	Valid
+            //your name	Invalid (Contains whitespace)
+
             Console.WriteLine("Enter your Name");
             string name = Console.ReadLine();
             int age = 18;

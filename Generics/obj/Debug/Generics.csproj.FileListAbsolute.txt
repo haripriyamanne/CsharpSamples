@@ -1,0 +1,7 @@
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Generics\bin\Debug\Generics.exe.config
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Generics\bin\Debug\Generics.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Generics\bin\Debug\Generics.pdb
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Generics\obj\Debug\Generics.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Generics\obj\Debug\Generics.pdb

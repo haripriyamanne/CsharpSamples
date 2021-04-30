@@ -1,0 +1,6 @@
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Abstract Classes\bin\Debug\Abstract Classes.exe.config
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Abstract Classes\bin\Debug\Abstract Classes.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Abstract Classes\bin\Debug\Abstract Classes.pdb
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Abstract Classes\obj\Debug\Abstract Classes.csproj.CoreCompileInputs.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Abstract Classes\obj\Debug\Abstract Classes.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Abstract Classes\obj\Debug\Abstract Classes.pdb

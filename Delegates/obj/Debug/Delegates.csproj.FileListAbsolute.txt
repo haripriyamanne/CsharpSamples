@@ -1,0 +1,7 @@
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Delegates\bin\Debug\Delegates.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Delegates\obj\Debug\Delegates.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Delegates\obj\Debug\Delegates.pdb

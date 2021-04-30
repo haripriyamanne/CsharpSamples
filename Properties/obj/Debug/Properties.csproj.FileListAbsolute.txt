@@ -1,0 +1,7 @@
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Properties\bin\Debug\Properties.exe.config
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Properties\bin\Debug\Properties.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Properties\bin\Debug\Properties.pdb
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Properties\obj\Debug\Properties.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Properties\obj\Debug\Properties.pdb

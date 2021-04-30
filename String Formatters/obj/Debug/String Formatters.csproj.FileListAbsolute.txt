@@ -1,0 +1,7 @@
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\String Formatters\bin\Debug\String Formatters.exe.config
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\String Formatters\bin\Debug\String Formatters.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\String Formatters\bin\Debug\String Formatters.pdb
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\String Formatters\obj\Debug\String Formatters.csprojAssemblyReference.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\String Formatters\obj\Debug\String Formatters.csproj.CoreCompileInputs.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\String Formatters\obj\Debug\String Formatters.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\String Formatters\obj\Debug\String Formatters.pdb
