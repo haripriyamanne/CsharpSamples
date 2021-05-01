@@ -1,0 +1,6 @@
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Destructor\bin\Debug\Destructor.exe.config
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Destructor\bin\Debug\Destructor.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Destructor\bin\Debug\Destructor.pdb
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Destructor\obj\Debug\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Destructor\obj\Debug\Destructor.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Destructor\obj\Debug\Destructor.pdb

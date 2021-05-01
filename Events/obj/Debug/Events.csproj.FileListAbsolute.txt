@@ -1,0 +1,6 @@
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Events\bin\Debug\Events.exe.config
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Events\bin\Debug\Events.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Events\bin\Debug\Events.pdb
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Events\obj\Debug\Events.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Events\obj\Debug\Events.pdb
