@@ -1,0 +1,7 @@
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\LINQ\bin\Debug\LINQ.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\LINQ\obj\Debug\LINQ.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\LINQ\obj\Debug\LINQ.pdb
