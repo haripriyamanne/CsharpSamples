@@ -6,35 +6,70 @@ using System.Threading.Tasks;
 
 namespace Properties
 {
-    public class Bank
+    public class StudentsInformation
     {
-        private double balance;
-        public double BalanceInAccount
+        private int stuId, stuAge;
+        private string stuName, stuAddress;
+        public int StudentId
         {
-            get
-            {
-                return balance;
-            }
             set
             {
-                // validate the value
-                if (value < 0)
-                {
-                    Console.WriteLine("Value cannot be negative");
-                }
-                balance = value;
+                stuId = value;
+            }
+            get
+            {
+                return stuId;
+            }
+        }
+        public int StudentAge
+        {
+            set
+            {
+                stuAge = value;
+            }
+            get
+            {
+                return stuAge;
+            }
+        }
+        public string StudentName
+        {
+            set
+            {
+                stuName = value;
+            }
+            get
+            {
+                return stuName;
+            }
+        }
+        public string StudentAddress
+        {
+            set
+            {
+                stuAddress = value;
+            }
+            get
+            {
+                return stuAddress;
             }
         }
     }
-    class BankUser
+    class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
-            Bank SBI = new Bank();
-            SBI.BalanceInAccount = 100;
-            Console.WriteLine(SBI.BalanceInAccount);
-            SBI.BalanceInAccount = -50;
-            Console.WriteLine(SBI.BalanceInAccount);
+            StudentsInformation si = new StudentsInformation();
+            si.StudentId = 101;
+            si.StudentName = "Haripriya";
+            si.StudentAge = 23;
+            si.StudentAddress = "Bhimavaram";
+            Console.WriteLine("Student details are:");
+            Console.WriteLine("Student Id:" + si.StudentId);
+            Console.WriteLine("Student Name:" + si.StudentName);
+            Console.WriteLine("Student Age:" + si.StudentAge);
+            Console.WriteLine("student Address:" + si.StudentAddress);
+            Console.ReadKey();
         }
     }
 }

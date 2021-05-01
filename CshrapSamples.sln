@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception Handling", "Excep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{F48F586A-009F-4ED5-8428-43889109267A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{215DD2BF-4672-4034-A40A-8512F88AD057}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{F48F586A-009F-4ED5-8428-43889109267A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F48F586A-009F-4ED5-8428-43889109267A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F48F586A-009F-4ED5-8428-43889109267A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215DD2BF-4672-4034-A40A-8512F88AD057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215DD2BF-4672-4034-A40A-8512F88AD057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215DD2BF-4672-4034-A40A-8512F88AD057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215DD2BF-4672-4034-A40A-8512F88AD057}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
