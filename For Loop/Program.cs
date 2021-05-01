@@ -10,8 +10,11 @@ namespace For_Loop
     {
         static void Main(string[] args)
         {
+            Prime_Numbers pn = new Prime_Numbers();
+            pn.CheckingPrimeNumbers();
+
             int i, j, k, l;
-            Console.Write("Enter the Range");
+            Console.WriteLine("Enter the Range to Print Number Triangle");
             int n = int.Parse(Console.ReadLine());
             for (i = 1; i <= n; i++)
             {
