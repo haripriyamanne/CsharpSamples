@@ -1,0 +1,6 @@
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Dynnamics\bin\Debug\Dynnamics.exe.config
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Dynnamics\bin\Debug\Dynnamics.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Dynnamics\bin\Debug\Dynnamics.pdb
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Dynnamics\obj\Debug\Dynamics.csproj.CoreCompileInputs.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Dynnamics\obj\Debug\Dynnamics.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Dynnamics\obj\Debug\Dynnamics.pdb
