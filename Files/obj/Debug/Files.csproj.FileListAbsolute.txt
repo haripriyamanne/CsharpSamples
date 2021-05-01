@@ -1,0 +1,6 @@
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Files\bin\Debug\Files.exe.config
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Files\bin\Debug\Files.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Files\bin\Debug\Files.pdb
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Files\obj\Debug\Files.exe
+C:\Users\Haripriya Manne\source\repos\CshrapSamples\Files\obj\Debug\Files.pdb
