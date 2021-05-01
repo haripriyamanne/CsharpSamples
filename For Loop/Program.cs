@@ -10,17 +10,24 @@ namespace For_Loop
     {
         static void Main(string[] args)
         {
-            int[,] array = { { 1, 23, 3 }, 
-                { 4, 52, 6 }, 
-                { 71, 8, 98 } };//declaration and initialization
-                                                           
-            for (int i = 0; i < 3; i++)
+            int i, j, k, l;
+            Console.Write("Enter the Range");
+            int n = int.Parse(Console.ReadLine());
+            for (i = 1; i <= n; i++)
             {
-                for (int j = 0; j < 3; j++)
+                for (j = 1; j <= n - i; j++)
                 {
-                    Console.Write(array[i, j] + " ");
+                    Console.Write(" ");
                 }
-                    Console.Write("\n");//new line at each row  
+                for (k = 1; k <= i; k++)
+                {
+                    Console.Write(k);
+                }
+                for (l = i - 1; l >= 1; l--)
+                {
+                    Console.Write(l);
+                }
+                Console.Write("\n");
             }
         }
     }
